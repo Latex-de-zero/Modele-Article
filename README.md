@@ -6,3 +6,5 @@ Le modèle marche bien, j'utilise texmaker 5.0.4. et/ou texstudio  dans macOs Ca
 Je suis à l'écoute de vos retours.
 
 Lyon, 22 avril 2020. 
+
+jsdazaa@gmail.com
